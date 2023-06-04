@@ -12,5 +12,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello Gitlab_hot-fix2222222!");
         System.out.println("Hello Gitlab_test1222222222!");
+        System.out.println("Hello Gitlab 222222222!");
     }
 }
